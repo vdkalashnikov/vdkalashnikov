@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vdkalashnikov
 - 👀 I’m interested in programming or digital technology
-- 🌱 I’m currently learning CodeIgniter 4
+- 🌱 I’m currently learning CodeIgniter 4, Laravel and React Js
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
